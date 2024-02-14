@@ -1,0 +1,4 @@
+*.tfstate
+*.hcl
+*.DS_Store
+terraform_state_management_aws_s3_dynamodb/**/.terraform/
